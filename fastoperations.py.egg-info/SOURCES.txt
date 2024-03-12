@@ -1,0 +1,7 @@
+setup.py
+fastdatapy/__init__.py
+fastdatapy/fastoperations.py
+fastoperations.py.egg-info/PKG-INFO
+fastoperations.py.egg-info/SOURCES.txt
+fastoperations.py.egg-info/dependency_links.txt
+fastoperations.py.egg-info/top_level.txt
