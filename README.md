@@ -38,4 +38,4 @@ FAST data reduction - Python
 
 extract fits to npy use fast.fitXXYYXYYX2npy(input_path,save_path,finalchan,beam,beam_number)
 
-calibrate, from counts to antenna temperature, use 
+calibrate, from counts to antenna temperature
