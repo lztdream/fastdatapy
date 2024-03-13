@@ -707,8 +707,8 @@ class fast:
 
         #H BW
         Bandwidth = bandwidth #Original bandwidth (1000-1500MHz) of in put array, may change
-        start = int((start_frq-1000)/Bandwidth*frq_chan)
-        end = int((end_frq-1000)/Bandwidth*frq_chan)
+        start = int((start_frq-1050)/Bandwidth*frq_chan)#start from 1000MHz. If start from 1050, minus 1050
+        end = int((end_frq-1050)/Bandwidth*frq_chan)
 
 
         timespec2D_sum_frq_t_total = timespec2D
